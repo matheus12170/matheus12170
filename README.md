@@ -2,7 +2,7 @@
 
  Meu nome é Matheus
 
- - Estou estudando na Alura;
+ - Estou estudando na [Alura](https://www.alura.com.br);
  - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,4 +11,4 @@
 matheus.krubniki@escola.pr.gov.br
 
 
-![image](https://github.com/user-attachments/assets/1e948daf-2c38-4348-82ce-9be11a012025)
+![image](https://media1.tenor.com/m/VG57dp4st8wAAAAC/elmer-sheep.gif)
